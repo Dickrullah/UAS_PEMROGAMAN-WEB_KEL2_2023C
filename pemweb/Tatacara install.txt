@@ -1,5 +1,0 @@
-Tatacara install
-1. Impor file sql ke MySQL
-2. Ekstrak File pemweb ini ke htdocs
-3. nyalakan xampp
-4. Buka web ini dengan localhost (http://localhost/pemweb/public/homepage.php)
