@@ -1,4 +1,11 @@
 # UAS_PEMROGAMAN-WEB_KEL2_2023C
 
 
-Kesehatan mental menjadi salah satu aspek penting dalam kehidupan manusia yang sering kali terabaikan. Seiring dengan perkembangan zaman, stigma terhadap kesehatan mental berangsur menurun, dan kebutuhan akan layanan psikologi yang mudah diakses semakin meningkat. Untuk menjawab kebutuhan ini, platform NeuroFlow dibuat sebagai solusi digital dalam menyediakan informasi dan layanan psikologi yang terpercaya dan mudah diakses oleh berbagai kalangan masyarakat.
+UTS Pemrograman Web Proyek aplikasi web sederhana ini dibuat sebagai bagian dari tugas Ujian Tengah Semester (UTS) untuk mata kuliah Pemrograman Web. 
+
+Fitur Beranda (HomePage): Halaman utama untuk menyambut pengunjung. Blog: Bagian untuk menampilkan artikel atau postingan. Tentang Kami: Informasi mengenai tim atau tujuan website. Jadwal : Untuk Melihat jadwal pemesanan yang kosong.
+
+Tata cara Install
+1.Ekstark File tersebut di htdocs
+2.Impor File SQL yang terdapat pada file tersebut ke Mysql
+3.Jalankan Web melalui localhost
